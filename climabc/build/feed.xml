@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>climabc</title>
+    <subtitle></subtitle>
+    <updated>2022-08-24T00:15:08.753571+08:00</updated>
+    <id>http://localhost</id>
+    <link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="http://localhost" rel="alternate" type="text/html" />
+    <generator uri="https://github.com/zineland/zine" version="0.6.0">zine</generator>
+    <author>
+        <name>climabc</name>
+        <uri>http://localhost</uri>
+    </author>
+
+    <entry>
+        <title>abc</title>
+        <link rel="alternate" href="http://localhost/s1/1" type="text/html" title="abc" />
+        <published>2022-08-23</published>
+        <updated>2022-08-23</updated>
+        <id>http://localhost/s1/1</id>
+        <content type="html" xml:base="http://localhost/s1/1">
+            <![CDATA[<h1 id="this h1" class="flex group">
+<span>this h1</span>
+<a href="#this h1"
+   class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
+   aria-label="Anchor">
+    <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
+        <svg width="12" height="12" fill="none" aria-hidden="true">
+            <path d="M3.75 1v10M8.25 1v10M1 3.75h10M1 8.25h10"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round">
+            </path>
+        </svg>
+    </div>
+</a>
+</h1>
+<h2 id="this h2" class="flex group">
+<span>this h2</span>
+<a href="#this h2"
+   class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
+   aria-label="Anchor">
+    <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
+        <svg width="12" height="12" fill="none" aria-hidden="true">
+            <path d="M3.75 1v10M8.25 1v10M1 3.75h10M1 8.25h10"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round">
+            </path>
+        </svg>
+    </div>
+</a>
+</h2>
+<h3 id="this h3" class="flex group">
+<span>this h3</span>
+<a href="#this h3"
+   class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
+   aria-label="Anchor">
+    <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
+        <svg width="12" height="12" fill="none" aria-hidden="true">
+            <path d="M3.75 1v10M8.25 1v10M1 3.75h10M1 8.25h10"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round">
+            </path>
+        </svg>
+    </div>
+</a>
+</h3>
+<p>Hello Zine</p>
+]]>
+        </content>
+
+        <author>
+            <name></name>
+        </author>
+    </entry>
+    </feed>

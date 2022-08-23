@@ -1,0 +1,14 @@
+
+[site]
+url = "http://localhost"
+name = "climabc"
+description = ""
+# logo = "/path/to/favicon"
+locale = "zh"
+
+[[issue]]
+slug = "s1"
+number = 2
+title = "001"
+path = "content/issue-1"
+# intro = "content/issue-1/intro.md
