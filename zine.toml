@@ -1,0 +1,20 @@
+
+[site]
+url = "http://localhost"
+name = "climabc"
+description = ""
+# logo = "/path/to/favicon"
+locale = "zh"
+
+[[issue]]
+slug = "s1"
+number = 2
+title = "001"
+path = "content/issue-1"
+# intro = "content/issue-1/intro.md
+
+[[issue]]
+slug = "ipcc"
+number = 2
+title = "FAQ 1-1"
+path = "content/ipcc/wg-1/faq1-1"
