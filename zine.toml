@@ -13,7 +13,7 @@ title = "卷首"
 path = "content/index"
 
 [[issue]]
-slug = "ipcc"
+slug = "ipcc-wg1-faq"
 number = 2
 title = "IPCC第1工作组FAQ"
 path = "content/ipcc/wg-1/faq"
