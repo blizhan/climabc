@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>climabc</title>
-    <subtitle></subtitle>
-    <updated>2022-09-01T01:51:54.151624637+00:00</updated>
+    <subtitle>IPCC气候报告中文化Zine</subtitle>
+    <updated>2022-09-01T16:46:56.921698932+00:00</updated>
     <id>http://localhost</id>
     <link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost" rel="alternate" type="text/html" />
@@ -36,7 +36,7 @@
 </a>
 </h1>
 <blockquote>
-<p><em>全球尺度上的气候变化是毫不质疑的，而且在更小局部区域气候变化会更加明显。北半球高维度地区出现变暖幅度最大，同时对于海冰和冰川变化有明显影响。由于热带自然的年际间温度变化很小，热带地区气温变暖将会明显。而长期变化的其他因素，比如降雨和气象气候极端事件在很多地区也是正在变得越发常见。</em></p>
+<p><em>全球尺度上的气候变化是毫无置疑的，而且在更小局部区域气候变化会更加明显。北半球高维度地区出现变暖幅度最大，同时对于海冰和冰川变化有明显影响。由于热带自然的年际间温度变化很小，热带地区气温变暖将会明显。而长期变化的其他因素，比如降雨和气象气候极端事件在很多地区也是正在变得越发常见。</em></p>
 </blockquote>
 <p>在20世纪30年，人类首次意识到地球陆地在变暖。虽然二氧化碳浓度增加已经被被认为是变暖的原因，但是在当时全暖情况还不是明显情况下，并不能确定观测到的变暖是来自长期趋势还是自然波动。然而随着地球持续变暖，温度变暖在80年代已经变得明显，换而言之，全球变暖已经发生了。</p>
 <p>想象一下，如果你在过去150年在同样的地方测量温度，会发生什么？在什么时候你会在数据中注意到变暖的趋势？这些问题的答案取决于你在地球哪里。</p>
@@ -45,7 +45,7 @@
 <p>其他气候要素的变化同样地在更小的局部区域会变得更明显。比如，平均年降雨变化在一些地区的变化是明确的，但在一些地方而不是，主要因为自然年际降雨变化率会随着长期趋势变得越来越大。但是，极端降水在大部分地区会变得越来越明显，潜在地增加了内陆洪涝的可能性（FAQ 8.2）。海平面在很多地方的海岸线同样地明显变高，使得很多沿海地区被风暴潮淹没的风险增加，而且是在假设每年风暴潮登陆数量不变的情况下。气候变化引起的北极海冰变化也是明显的，不仅是海域覆盖率，还有海冰厚度变化，这些都暗示着极地生态系统也将发生改变。</p>
 <p>当考虑到气候相关的影响是，最重要的不是考虑变化有多大，而是考虑气候变化的速率，或着相对于当前我们生态和社会都适应的气候自然波动的变化幅度大小。随着气候变化越来越偏移过去状态，并会发展到过去从未出现过的状态，这种变化的影响会是巨大的，而且适应这种变化的挑战也是空前的。</p>
 <p>气候变化的长期的趋势要如何发展到怎样的阶段才会变得与短期的自然波动截然不同呢？这里面决定因素包括是考虑气候的哪方面（比如，气温，降雨，海冰或者海平面），在地球上哪个地方，气候变化快慢，实际自然波动大小和周期。当评估气候变化在局部地区的影响的时候，气候变化的大小和自然变化幅度两者十分重要的因素。</p>
-<p><img src="https://github.com/blizhan/climabc/blob/master/static/ipcc/wg-1/FAQ1-2.png" alt="" loading="lazy"></p>
+<p><img src="/static/ipcc/wg-1/FAQ1-2.png" alt="" loading="lazy"></p>
 ]]>
         </content>
 
@@ -84,7 +84,7 @@
 <p>人类引起气候变化包括了，一方面大量使用化石燃料释放了大量对热吸收性强的温室气体、大量砍伐森林进行农耕等引起的地球增温，另一面，燃煤释放的硫酸盐气溶胶在中短期有制冷效果，暂时抑制人类导致的气候变暖。从1990年开始，我们有更多更好对人因影响的观测，以及不断优化的历史观测纪录，这都使得我们能够更准确的评估人类对于自然系统的影响（FAQ 3.1）。</p>
 <p>在1990年，当时大部分气候模型都主要专注于大气模型，而对海洋和陆面使用高度简化的替代模型。在今天，地球系统的模拟包括详细的海洋模型，冰雪模型，植被模型以及很多其他要素。对于气候模型的检验有一项重要的测试，就是评估它们从开始有仪器观测（大约1850年）开始对地球气候的模拟能力。从1990年开始，这样对气候模型的测试开始好几轮，并且这样测试逐渐变得更加严密，更加全面。很多组织的气候模型在这些测试中都很好地预测至今观测到气候变化（FAQ 3.3）。尽管我们无法像在实验室一样在实际地球上做控制实验，气候模型模拟仍然可以进行试验，给我们提供在没有人类影响下的另一个可能的地球情景。这些实验结果都表明了目前观测到的地球变暖在没有人类影响的情况并不会发生。</p>
 <p>最后，物理规律预测人类对气候系统的影响会使产生特定气候模式的变化，而且我们在观测和模拟都中看到了这样变化模式。比如，晚上变暖的速度会比白天更快，更少的热量能逸出至外太空，低层大气（对流层）会变暖而高层大气（平流层）会变冷。如今这些已经被确认预测成为了「气候变化不是自然发生的而是温室气体含量上升引起的」这样论调有力的证据。</p>
-<p><img src="https://github.com/blizhan/climabc/blob/master/static/ipcc/wg-1/FAQ1-1.png" alt="" loading="lazy"></p>
+<p><img src="/static/ipcc/wg-1/FAQ1-1.png" alt="" loading="lazy"></p>
 ]]>
         </content>
 
@@ -94,11 +94,11 @@
     </entry>
     <entry>
         <title>卷首</title>
-        <link rel="alternate" href="http://localhost/s1/s1" type="text/html" title="卷首" />
+        <link rel="alternate" href="http://localhost/index/index" type="text/html" title="卷首" />
         <published>2022-08-23</published>
         <updated>2022-08-23</updated>
-        <id>http://localhost/s1/s1</id>
-        <content type="html" xml:base="http://localhost/s1/s1">
+        <id>http://localhost/index/index</id>
+        <content type="html" xml:base="http://localhost/index/index">
             <![CDATA[<h2 id="climabc" class="flex group">
 <span>climabc</span>
 <a href="#climabc"
@@ -142,7 +142,16 @@
 <p>目前主要翻译内容</p>
 <ul>
 <li><input disabled="" type="checkbox"/>
-IPCC AR6 第一工作组各章节FAQ</li>
+IPCC AR6 第一工作组各章节FAQ
+<ul>
+<li><input disabled="" type="checkbox" checked=""/>
+FAQ 1-1</li>
+<li><input disabled="" type="checkbox" checked=""/>
+FAQ 1-2</li>
+<li><input disabled="" type="checkbox"/>
+FAQ 1-3</li>
+</ul>
+</li>
 </ul>
 <h4 id="开放" class="flex group">
 <span>开放</span>
