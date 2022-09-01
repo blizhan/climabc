@@ -2,16 +2,15 @@
 [site]
 url = "http://localhost"
 name = "climabc"
-description = ""
+description = "IPCC气候报告中文化Zine"
 # logo = "/path/to/favicon"
 locale = "zh"
 
 [[issue]]
-slug = "s1"
+slug = "index"
 number = 1
 title = "卷首"
 path = "content/index"
-# intro = "content/issue-1/intro.md
 
 [[issue]]
 slug = "ipcc"
