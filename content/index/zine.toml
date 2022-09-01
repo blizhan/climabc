@@ -1,0 +1,10 @@
+
+[[article]]
+slug = "s1"
+file = "importance.md"
+title = "卷首"
+author = "blizhan"
+cover = "static/index/importance.png"
+pub_date = "2022-08-23"
+publish = true
+featured = true

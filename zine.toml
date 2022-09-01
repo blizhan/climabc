@@ -8,13 +8,13 @@ locale = "zh"
 
 [[issue]]
 slug = "s1"
-number = 2
-title = "001"
-path = "content/issue-1"
+number = 1
+title = "卷首"
+path = "content/index"
 # intro = "content/issue-1/intro.md
 
 [[issue]]
 slug = "ipcc"
 number = 2
-title = "FAQ 1-1"
-path = "content/ipcc/wg-1/faq1-1"
+title = "IPCC第1工作组FAQ"
+path = "content/ipcc/wg-1/faq"

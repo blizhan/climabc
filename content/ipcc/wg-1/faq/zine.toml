@@ -1,0 +1,20 @@
+
+[[article]]
+slug = "ipcc"
+file = "1-1.md"
+title = "IPCC第1工作组 - FAQ 1.1"
+author = "blizhan"
+cover = "static/ipcc/wg-1/FAQ1-1.png"
+pub_date = "2022-08-29"
+publish = true
+featured = true
+
+[[article]]
+slug = "ipcc"
+file = "1-2.md"
+title = "IPCC第1工作组 - FAQ 1.2"
+author = "blizhan"
+cover = "static/ipcc/wg-1/FAQ1-2.png"
+pub_date = "2022-09-01"
+publish = true
+featured = true
