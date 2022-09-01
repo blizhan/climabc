@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>climabc</title>
     <subtitle></subtitle>
-    <updated>2022-08-29T16:06:43.932118128+00:00</updated>
+    <updated>2022-09-01T01:51:54.151624637+00:00</updated>
     <id>http://localhost</id>
     <link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost" rel="alternate" type="text/html" />
@@ -13,12 +13,53 @@
     </author>
 
     <entry>
-        <title>abc</title>
-        <link rel="alternate" href="http://localhost/ipcc/2" type="text/html" title="abc" />
+        <title>IPCC第1工作组 - FAQ 1.2</title>
+        <link rel="alternate" href="http://localhost/ipcc/ipcc" type="text/html" title="IPCC第1工作组 - FAQ 1.2" />
+        <published>2022-09-01</published>
+        <updated>2022-09-01</updated>
+        <id>http://localhost/ipcc/ipcc</id>
+        <content type="html" xml:base="http://localhost/ipcc/ipcc">
+            <![CDATA[<h1 id="faq 1.2 | 地球上哪里气候变化最显著？" class="flex group">
+<span>FAQ 1.2 | 地球上哪里气候变化最显著？</span>
+<a href="#faq 1.2 | 地球上哪里气候变化最显著？"
+   class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
+   aria-label="Anchor">
+    <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
+        <svg width="12" height="12" fill="none" aria-hidden="true">
+            <path d="M3.75 1v10M8.25 1v10M1 3.75h10M1 8.25h10"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round">
+            </path>
+        </svg>
+    </div>
+</a>
+</h1>
+<blockquote>
+<p><em>全球尺度上的气候变化是毫不质疑的，而且在更小局部区域气候变化会更加明显。北半球高维度地区出现变暖幅度最大，同时对于海冰和冰川变化有明显影响。由于热带自然的年际间温度变化很小，热带地区气温变暖将会明显。而长期变化的其他因素，比如降雨和气象气候极端事件在很多地区也是正在变得越发常见。</em></p>
+</blockquote>
+<p>在20世纪30年，人类首次意识到地球陆地在变暖。虽然二氧化碳浓度增加已经被被认为是变暖的原因，但是在当时全暖情况还不是明显情况下，并不能确定观测到的变暖是来自长期趋势还是自然波动。然而随着地球持续变暖，温度变暖在80年代已经变得明显，换而言之，全球变暖已经发生了。</p>
+<p>想象一下，如果你在过去150年在同样的地方测量温度，会发生什么？在什么时候你会在数据中注意到变暖的趋势？这些问题的答案取决于你在地球哪里。</p>
+<p>观测数据和气候模型模拟都指出，在高纬度地区长期变暖幅度最大，在热带地区变暖幅度最小。但由于热带气温的年际自然波动小，热带气温变化在与常年气温相比，变暖趋势显得非常明显（FAQ 1.2, Figure 1）。</p>
+<p>同时，陆地地区温度的温度变化比大洋地区更加明显，而且往往在气候变化敏感的地方温度变化也会更明显。预期未来，在高纬度地区的温度变化幅度仍然最大，但是在热带地区的变暖会最明显。所以如果能控制全球变暖，将会控制气候变化相对常年气候的变化，这样热带地区是在减缓气候变化行动中最大收益者。</p>
+<p>其他气候要素的变化同样地在更小的局部区域会变得更明显。比如，平均年降雨变化在一些地区的变化是明确的，但在一些地方而不是，主要因为自然年际降雨变化率会随着长期趋势变得越来越大。但是，极端降水在大部分地区会变得越来越明显，潜在地增加了内陆洪涝的可能性（FAQ 8.2）。海平面在很多地方的海岸线同样地明显变高，使得很多沿海地区被风暴潮淹没的风险增加，而且是在假设每年风暴潮登陆数量不变的情况下。气候变化引起的北极海冰变化也是明显的，不仅是海域覆盖率，还有海冰厚度变化，这些都暗示着极地生态系统也将发生改变。</p>
+<p>当考虑到气候相关的影响是，最重要的不是考虑变化有多大，而是考虑气候变化的速率，或着相对于当前我们生态和社会都适应的气候自然波动的变化幅度大小。随着气候变化越来越偏移过去状态，并会发展到过去从未出现过的状态，这种变化的影响会是巨大的，而且适应这种变化的挑战也是空前的。</p>
+<p>气候变化的长期的趋势要如何发展到怎样的阶段才会变得与短期的自然波动截然不同呢？这里面决定因素包括是考虑气候的哪方面（比如，气温，降雨，海冰或者海平面），在地球上哪个地方，气候变化快慢，实际自然波动大小和周期。当评估气候变化在局部地区的影响的时候，气候变化的大小和自然变化幅度两者十分重要的因素。</p>
+<p><img src="https://github.com/blizhan/climabc/blob/master/static/ipcc/wg-1/FAQ1-2.png" alt="" loading="lazy"></p>
+]]>
+        </content>
+
+        <author>
+            <name>blizhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title>IPCC第1工作组 - FAQ 1.1</title>
+        <link rel="alternate" href="http://localhost/ipcc/ipcc" type="text/html" title="IPCC第1工作组 - FAQ 1.1" />
         <published>2022-08-29</published>
         <updated>2022-08-29</updated>
-        <id>http://localhost/ipcc/2</id>
-        <content type="html" xml:base="http://localhost/ipcc/2">
+        <id>http://localhost/ipcc/ipcc</id>
+        <content type="html" xml:base="http://localhost/ipcc/ipcc">
             <![CDATA[<h1 id="faq 1.1 | 相比ipcc启动之初，现在我们对气候的理解是否进步了？" class="flex group">
 <span>FAQ 1.1 | 相比IPCC启动之初，现在我们对气候的理解是否进步了？</span>
 <a href="#faq 1.1 | 相比ipcc启动之初，现在我们对气候的理解是否进步了？"
@@ -52,31 +93,15 @@
         </author>
     </entry>
     <entry>
-        <title>abc</title>
-        <link rel="alternate" href="http://localhost/s1/1" type="text/html" title="abc" />
+        <title>卷首</title>
+        <link rel="alternate" href="http://localhost/s1/s1" type="text/html" title="卷首" />
         <published>2022-08-23</published>
         <updated>2022-08-23</updated>
-        <id>http://localhost/s1/1</id>
-        <content type="html" xml:base="http://localhost/s1/1">
-            <![CDATA[<h1 id="this h1" class="flex group">
-<span>this h1</span>
-<a href="#this h1"
-   class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
-   aria-label="Anchor">
-    <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
-        <svg width="12" height="12" fill="none" aria-hidden="true">
-            <path d="M3.75 1v10M8.25 1v10M1 3.75h10M1 8.25h10"
-                  stroke="currentColor"
-                  stroke-width="1.5"
-                  stroke-linecap="round">
-            </path>
-        </svg>
-    </div>
-</a>
-</h1>
-<h2 id="this h2" class="flex group">
-<span>this h2</span>
-<a href="#this h2"
+        <id>http://localhost/s1/s1</id>
+        <content type="html" xml:base="http://localhost/s1/s1">
+            <![CDATA[<h2 id="climabc" class="flex group">
+<span>climabc</span>
+<a href="#climabc"
    class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
    aria-label="Anchor">
     <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
@@ -90,9 +115,16 @@
     </div>
 </a>
 </h2>
-<h3 id="this h3" class="flex group">
-<span>this h3</span>
-<a href="#this h3"
+<p>climabc一本是专注于将气候变化相关文章中文化的独立、去中心化的小志 / 小誌 / Zine。</p>
+<blockquote>
+<p>什么是小志 / 小誌 / Zine (<a href="https://en.wikipedia.org/wiki/Zine">Wikipedia</a>)</p>
+<blockquote>
+<p>「Zine」一字是 Magazine 或 Fanzine 的缩写，多指小范围传阅的个人出版、非盈利的独立刊物。</p>
+</blockquote>
+</blockquote>
+<h4 id="内容" class="flex group">
+<span>内容</span>
+<a href="#内容"
    class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
    aria-label="Anchor">
     <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
@@ -105,13 +137,35 @@
         </svg>
     </div>
 </a>
-</h3>
-<p>Hello Zine</p>
+</h4>
+<p>climabc内容将会以 <a href="">IPCC AR6</a> 报告 (综合报告和第一、二、三工作组报告)中选段的中文化内容为主，并插入对其中相关不为大众所熟知的概念、观点、名词的说明和解释内容。</p>
+<p>目前主要翻译内容</p>
+<ul>
+<li><input disabled="" type="checkbox"/>
+IPCC AR6 第一工作组各章节FAQ</li>
+</ul>
+<h4 id="开放" class="flex group">
+<span>开放</span>
+<a href="#开放"
+   class="ml-2 inline-flex items-center opacity-0 border-0 group-hover:opacity-100"
+   aria-label="Anchor">
+    <div class="w-6 h-6 text-slate-400 ring-1 ring-slate-900/5 rounded-md shadow-sm flex items-center justify-center hover:ring-slate-900/10 hover:shadow hover:text-slate-700">
+        <svg width="12" height="12" fill="none" aria-hidden="true">
+            <path d="M3.75 1v10M8.25 1v10M1 3.75h10M1 8.25h10"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round">
+            </path>
+        </svg>
+    </div>
+</a>
+</h4>
+<p>通过PR即可提交个人的翻译。</p>
 ]]>
         </content>
 
         <author>
-            <name></name>
+            <name>blizhan</name>
         </author>
     </entry>
     </feed>

@@ -7,13 +7,16 @@
         <loc>http://localhost/s1/</loc>
     </url>
     <url>
-        <loc>http://localhost/s1/1/</loc>
+        <loc>http://localhost/s1/s1/</loc>
     </url>
     <url>
         <loc>http://localhost/ipcc/</loc>
     </url>
     <url>
-        <loc>http://localhost/ipcc/2/</loc>
+        <loc>http://localhost/ipcc/ipcc/</loc>
+    </url>
+    <url>
+        <loc>http://localhost/ipcc/ipcc/</loc>
     </url>
     <url>
         <loc>http://localhost/authors/</loc>
