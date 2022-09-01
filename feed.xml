@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>climabc</title>
     <subtitle>IPCC气候报告中文化Zine</subtitle>
-    <updated>2022-09-01T16:47:58.546154338+00:00</updated>
+    <updated>2022-09-01T17:01:52.249174258+00:00</updated>
     <id>http://localhost</id>
     <link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost" rel="alternate" type="text/html" />
@@ -14,11 +14,11 @@
 
     <entry>
         <title>IPCC第1工作组 - FAQ 1.2</title>
-        <link rel="alternate" href="http://localhost/ipcc/ipcc" type="text/html" title="IPCC第1工作组 - FAQ 1.2" />
+        <link rel="alternate" href="http://localhost/ipcc-wg1-faq/faq1-2" type="text/html" title="IPCC第1工作组 - FAQ 1.2" />
         <published>2022-09-01</published>
         <updated>2022-09-01</updated>
-        <id>http://localhost/ipcc/ipcc</id>
-        <content type="html" xml:base="http://localhost/ipcc/ipcc">
+        <id>http://localhost/ipcc-wg1-faq/faq1-2</id>
+        <content type="html" xml:base="http://localhost/ipcc-wg1-faq/faq1-2">
             <![CDATA[<h1 id="faq 1.2 | 地球上哪里气候变化最显著？" class="flex group">
 <span>FAQ 1.2 | 地球上哪里气候变化最显著？</span>
 <a href="#faq 1.2 | 地球上哪里气候变化最显著？"
@@ -55,11 +55,11 @@
     </entry>
     <entry>
         <title>IPCC第1工作组 - FAQ 1.1</title>
-        <link rel="alternate" href="http://localhost/ipcc/ipcc" type="text/html" title="IPCC第1工作组 - FAQ 1.1" />
+        <link rel="alternate" href="http://localhost/ipcc-wg1-faq/faq1-1" type="text/html" title="IPCC第1工作组 - FAQ 1.1" />
         <published>2022-08-29</published>
         <updated>2022-08-29</updated>
-        <id>http://localhost/ipcc/ipcc</id>
-        <content type="html" xml:base="http://localhost/ipcc/ipcc">
+        <id>http://localhost/ipcc-wg1-faq/faq1-1</id>
+        <content type="html" xml:base="http://localhost/ipcc-wg1-faq/faq1-1">
             <![CDATA[<h1 id="faq 1.1 | 相比ipcc启动之初，现在我们对气候的理解是否进步了？" class="flex group">
 <span>FAQ 1.1 | 相比IPCC启动之初，现在我们对气候的理解是否进步了？</span>
 <a href="#faq 1.1 | 相比ipcc启动之初，现在我们对气候的理解是否进步了？"
