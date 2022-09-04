@@ -1,6 +1,6 @@
 ## climabc
 
-[climabc](https://www.blizhan.cn/) 一本是专注于将气候变化相关文章中文化的独立、去中心化的小志 / 小誌 / Zine。
+[climabc](https://www.climabc.cn/) 一本是专注于将气候变化相关文章中文化的独立、去中心化的小志 / 小誌 / Zine。
 
 
 > 什么是小志 / 小誌 / Zine ([Wikipedia](https://en.wikipedia.org/wiki/Zine))
