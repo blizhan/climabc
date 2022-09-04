@@ -18,3 +18,13 @@ cover = "/static/ipcc/wg-1/FAQ1-2.png"
 pub_date = "2022-09-01"
 publish = true
 featured = true
+
+[[article]]
+slug = "faq1-3"
+file = "1-3.md"
+title = "IPCC第1工作组 - FAQ 1.3"
+author = "blizhan"
+cover = "/static/ipcc/wg-1/FAQ1-3.png"
+pub_date = "2022-09-04"
+publish = true
+featured = true

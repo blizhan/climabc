@@ -14,6 +14,6 @@ path = "content/index"
 
 [[issue]]
 slug = "ipcc-wg1-faq"
-number = 2
+number = 3
 title = "IPCC第1工作组FAQ"
 path = "content/ipcc/wg-1/faq"
