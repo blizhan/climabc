@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>climabc</title>
     <subtitle>IPCC气候报告中文化Zine</subtitle>
-    <updated>2022-09-04T05:10:05.795479397+00:00</updated>
+    <updated>2022-09-05T02:01:51.636966863+00:00</updated>
     <id>http://localhost</id>
     <link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost" rel="alternate" type="text/html" />
@@ -133,11 +133,11 @@
     </entry>
     <entry>
         <title>卷首</title>
-        <link rel="alternate" href="http://localhost/index/index" type="text/html" title="卷首" />
+        <link rel="alternate" href="http://localhost/index/importance" type="text/html" title="卷首" />
         <published>2022-08-23</published>
         <updated>2022-08-23</updated>
-        <id>http://localhost/index/index</id>
-        <content type="html" xml:base="http://localhost/index/index">
+        <id>http://localhost/index/importance</id>
+        <content type="html" xml:base="http://localhost/index/importance">
             <![CDATA[<h2 id="climabc" class="flex group">
 <span>climabc</span>
 <a href="#climabc"
