@@ -1,3 +1,7 @@
+slug = "ipcc-wg1-faq"
+number = 2
+title = "IPCC第1工作组FAQ"
+publish = true
 
 [[article]]
 slug = "faq1-1"

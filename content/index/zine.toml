@@ -1,3 +1,7 @@
+slug = "index"
+number = 1
+title = "卷首"
+publish = true
 
 [[article]]
 slug = "importance"
