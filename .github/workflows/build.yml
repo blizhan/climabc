@@ -12,6 +12,10 @@ on:
 
 env:
   ZINE_VERSION: v0.13.0
+  BUCKET: blizhan-pic
+  ENDPOINT: oss-ap-northeast-1.aliyuncs.com
+  ACCESS_KEY: ${{ secrets.ACCESS_KEY_ID }}
+  ACCESS_KEY_SECRET: ${{ secrets.ACCESS_KEY_SECRET }}
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -50,11 +54,6 @@ jobs:
       - name: Install Alibaba Cloud OSSUTIL
         run: wget http://gosspublic.alicdn.com/ossutil/1.6.10/ossutil64 && chmod +x ossutil64
       - name: Configure Alibaba Cloud OSSUTIL
-        env: 
-          BUCKET: blizhan-pic
-          ENDPOINT: oss-ap-northeast-1.aliyuncs.com
-          ACCESS_KEY: ${{ secrets.ACCESS_KEY_ID }}
-          ACCESS_KEY_SECRET: ${{ secrets.ACCESS_KEY_SECRET }}
         run: ./ossutil64 config -i ${ACCESS_KEY} -k ${ACCESS_KEY_SECRET} -e ${ENDPOINT} -c .ossutilconfig
       - name: Upload the web folder to the chosen OSS bucket
         run: ./ossutil64 --config-file .ossutilconfig cp ${{ github.workspace }}/build/ oss://${BUCKET} -r -f
