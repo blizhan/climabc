@@ -53,7 +53,7 @@ jobs:
             accessKeyId: ${{ secrets.ACCESS_KEY_ID }}
             accessKeySecret: ${{ secrets.ACCESS_KEY_SECRET }}
             bucket: blizhan-pic
-
+            incremental: false
             skipSetting: true
             # use your own endpoint
             endpoint: oss-ap-northeast-1.aliyuncs.com
